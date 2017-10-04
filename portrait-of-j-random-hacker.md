@@ -128,3 +128,9 @@ So hackers tend to believe they have good reason for skepticism about clinical e
 ### Miscellaneous
 
 Hackers are more likely to have cats than dogs (in fact, it is widely grokked that cats have the hacker nature). Many drive incredibly decrepit heaps and forget to wash them; richer ones drive spiffy Porsches and RX-7s and then forget to have them washed. Almost all hackers have terribly bad handwriting, and often fall into the habit of block-printing everything like junior draftsmen.
+
+
+
+
+RETRIEVED FROM: http://plumeria.vmth.ucdavis.edu/~saintly/bio/portrait.html
+RETRIEVED ON: 2017-October-3   - @nyxgeek
