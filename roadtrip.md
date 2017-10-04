@@ -1,4 +1,17 @@
-## hacker road trip destinations - ROUGH DRAFT
+# hacker road trip destinations - ROUGH DRAFT
+
+
+## multiple locations
+
+AT&T Long-Lines - a cold-war telecommunications infrastructure, now many deserted structures<BR>
+http://long-lines.net/places-routes/1st_transcon_mw/index.html <BR>
+http://spencerjharding.com/project/the-long-lines/
+
+
+Google Map of one in Kansas<BR>
+source: https://www.theatlantic.com/technology/archive/2015/12/the-secrets-of-an-abandoned-tower-in-kansas/419727/ <BR>
+https://www.google.com/maps/dir//39.7587194,-95.7331142/@39.7587357,-95.7333381,142m/data=!3m1!1e3<P>
+
 
 
 ### Wisconsin
