@@ -4,6 +4,15 @@ this is a work in-progress, a list of various places to travel to
 
 includes stuff like: computing facilities, research labs, old hangouts, cold war stuff, possibly barcades etc
 
+## Massachussetts
+
+### MIT
+The birthplace of hackerdom<P>
+
+MIT Campus<BR>
+77 Massachusetts Ave, Cambridge, MA 02139<BR>
+
+
 
 ## New York
 
