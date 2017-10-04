@@ -1,4 +1,4 @@
-# hacker road trip destinations - ROUGH DRAFT
+# hacker road trip destinations
 
 this is a work in-progress, a list of various places to travel to
 
