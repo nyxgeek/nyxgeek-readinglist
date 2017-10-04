@@ -9,9 +9,11 @@ includes stuff like: computing facilities, research labs, old hangouts, cold war
 ### MIT
 The birthplace of hackerdom<P>
 
-MIT Campus<BR>
-77 Massachusetts Ave, Cambridge, MA 02139<BR>
-
+```
+MIT Campus
+77 Massachusetts Ave
+Cambridge, MA 02139
+```
 
 
 ## New Mexico
