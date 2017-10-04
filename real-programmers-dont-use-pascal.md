@@ -468,7 +468,7 @@ E. for putting up with it, and atd!avsdS:mark for the initial inspiration.
          
          
          
-         ```
+```
 RETRIEVED FROM: http://web.mit.edu/humor/Computers/real.programmers
 
 RETRIEVED ON: 2017-Oct-4 - @nyxgeek
