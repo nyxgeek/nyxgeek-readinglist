@@ -1,9 +1,13 @@
 # hacker road trip destinations - ROUGH DRAFT
 
+this is a work in-progress, a list of various places to travel to
+
+includes stuff like: computing facilities, research labs, old hangouts, cold war stuff, possibly barcades etc
+
 
 ## multiple locations
 
-AT&T Long-Lines - a cold-war telecommunications infrastructure, now many deserted structures<BR>
+### AT&T Long-Lines - a cold-war telecommunications infrastructure, now many deserted structures<BR>
 http://long-lines.net/places-routes/1st_transcon_mw/index.html <BR>
 http://spencerjharding.com/project/the-long-lines/
 
@@ -14,7 +18,7 @@ https://www.google.com/maps/dir//39.7587194,-95.7331142/@39.7587357,-95.7333381,
 
 
 
-### Wisconsin
+## Wisconsin
 
 Cray Supercomputers Manufacturing - Every Cray supercomputer comes out of Wisconsin<BR>
 
