@@ -133,4 +133,5 @@ Hackers are more likely to have cats than dogs (in fact, it is widely grokked th
 
 
 RETRIEVED FROM: http://plumeria.vmth.ucdavis.edu/~saintly/bio/portrait.html
+
 RETRIEVED ON: 2017-October-3   - @nyxgeek
