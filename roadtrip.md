@@ -7,7 +7,9 @@ includes stuff like: computing facilities, research labs, old hangouts, cold war
 
 ## multiple locations
 
-### AT&T Long-Lines - a cold-war telecommunications infrastructure, now many deserted structures<BR>
+### AT&T Long-Lines - a cold-war telecommunications infrastructure
+
+now many deserted structures<BR>
 http://long-lines.net/places-routes/1st_transcon_mw/index.html <BR>
 http://spencerjharding.com/project/the-long-lines/
 
