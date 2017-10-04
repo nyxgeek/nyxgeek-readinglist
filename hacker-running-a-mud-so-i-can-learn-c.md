@@ -1,4 +1,4 @@
-This file was found inside of a Rom2.4 (a Multi-User Dungeon, aka MUD), in a file called 'hackers.txt'
+This file was found inside of a Rom2.4 (a Multi-User Dungeon, aka MUD), in a file called 'hacker.txt'
 
 A copy of this zip file called 'rom24.zip' can be found in the 'originals' folder of this github.
 
