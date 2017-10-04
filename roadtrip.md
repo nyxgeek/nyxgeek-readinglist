@@ -4,6 +4,26 @@ this is a work in-progress, a list of various places to travel to
 
 includes stuff like: computing facilities, research labs, old hangouts, cold war stuff, possibly barcades etc
 
+## California
+
+### Computer History Museum
+Open Wed - Fri, 10a - 5p. Check site for details.
+
+Admission: $17.50 adult
+
+```
+Computer History Museum
+1401 N. Shoreline Blvd
+Mountain View, CA 94043
+
+T: 650.810.1010
+F: 650.810.1055
+```
+http://www.computerhistory.org/
+
+
+
+
 ## Massachusetts
 
 ### MIT
