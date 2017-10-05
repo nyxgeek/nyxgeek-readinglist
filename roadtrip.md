@@ -70,7 +70,8 @@ http://www.lanl.gov/museum/visit/
 
 ### Wardenclyffe - Nikola Tesla's Lab<br>
 ```
-56 NY-25A, Shoreham, NY 11786
+56 NY-25A
+Shoreham, NY 11786
 ```
 http://teslasciencecenter.org<br>
 
