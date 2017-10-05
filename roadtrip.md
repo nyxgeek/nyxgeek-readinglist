@@ -23,6 +23,17 @@ http://www.computerhistory.org/
 
 
 
+### Palo Alto Research Center (PARC)
+
+Formerly XEROX Palo Alto Research Center - where things like laser printers were devised
+
+*no tours given to public*
+
+```
+333 Coyote Hill Road
+Palo Alto, CA
+```
+
 
 ## Massachusetts
 
