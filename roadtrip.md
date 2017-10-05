@@ -64,7 +64,7 @@ Los Alamos, NM 87544
 (505) 667-4444
 Media: (505) 667-7000
 ```
-Email: visit-bsm@lanl.gov
+Email: visit-bsm@lanl.gov<br>
 http://www.lanl.gov/museum/visit/
 
 
