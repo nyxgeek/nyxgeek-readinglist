@@ -34,6 +34,8 @@ Formerly XEROX Palo Alto Research Center - where things like laser printers were
 Palo Alto, CA
 ```
 
+http://www.parc.com/
+
 
 ## Massachusetts
 
