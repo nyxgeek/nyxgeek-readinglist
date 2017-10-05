@@ -6,6 +6,13 @@ includes stuff like: computing facilities, research labs, old hangouts, cold war
 
 ---
 
+## Arizona
+
+### Cinder lake - Location of apollo lunar landing tests
+http://pirlwww.lpl.arizona.edu/~jscotti/cinderlake.html
+
+---
+
 ## California
 
 ### Computer History Museum
