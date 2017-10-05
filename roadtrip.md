@@ -9,9 +9,11 @@ includes stuff like: computing facilities, research labs, old hangouts, cold war
 ## California
 
 ### Computer History Museum
-Open Wed - Fri, 10a - 5p. Check site for details.
+Open Wed - Fri, 10a - 5p. Check site for details.<P>
 
-Admission: $17.50 adult
+Admission: $17.50 adult<P>
+
+http://www.computerhistory.org/<P>
 
 ```
 Computer History Museum
@@ -21,23 +23,21 @@ Mountain View, CA 94043
 T: 650.810.1010
 F: 650.810.1055
 ```
-http://www.computerhistory.org/
 
 
 
 ### Palo Alto Research Center (PARC)
 
-Formerly XEROX Palo Alto Research Center - where things like laser printers were devised
+Formerly XEROX Palo Alto Research Center - where things like laser printers were devised<P>
 
-*no tours given to public*
+*no tours given to public*<P>
+
+http://www.parc.com/<BR>
 
 ```
 333 Coyote Hill Road
 Palo Alto, CA
 ```
-
-http://www.parc.com/
-
 
 ---
 
@@ -57,6 +57,9 @@ Cambridge, MA 02139
 ## New Mexico
 
 ### Bradbury Science Museum - Los Alamos Labs
+
+http://www.lanl.gov/museum/visit/<br>
+
 ```
 Bradbury Science Museum
 1350 Central Avenue
@@ -65,7 +68,6 @@ Los Alamos, NM 87544
 Media: (505) 667-7000
 ```
 Email: visit-bsm@lanl.gov<br>
-http://www.lanl.gov/museum/visit/
 
 
 
@@ -74,12 +76,13 @@ http://www.lanl.gov/museum/visit/
 ## New York
 
 ### Wardenclyffe - Nikola Tesla's Lab<br>
+
+http://teslasciencecenter.org<br>
+
 ```
 56 NY-25A
 Shoreham, NY 11786
 ```
-http://teslasciencecenter.org<br>
-
 
 ```
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2521.2306424136586!2d-72.89956158407794!3d40.946685822526625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e85d553187b729%3A0x191302f086c56e3b!2sWardenclyffe!5e1!3m2!1sen!2sus!4v1507149070890" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -123,11 +126,12 @@ McLean, VA 22101
 
 ### International Spy Museum
 
+https://www.spymuseum.org/about/<BR>
+
 ```
 800 F St, NW
 Washington, DC 20004
 ```
-https://www.spymuseum.org/about/
 
 ---
 
@@ -136,12 +140,13 @@ https://www.spymuseum.org/about/
 ### Cray Supercomputers Manufacturing
 
 Every Cray supercomputer comes out of Wisconsin<BR>
+https://www.cray.com/chippewa-falls-factory<BR>
+
 ```
 Cray Inc.
 1050 Lowater Rd,
 Chippewa Falls, WI 54729
 ```
-https://www.cray.com/chippewa-falls-factory<BR>
 
 
 ```
