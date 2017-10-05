@@ -75,6 +75,18 @@ Email: visit-bsm@lanl.gov<br>
 
 ## New York
 
+### F Society - Mr Robot
+
+The F-Society arcade is real, and it's in Coney Island.  Didn't see a popcorn machine but you can play skiball on the machines shown in Mr Robot. No commercialization of it yet as of summer 2016.<P>
+
+http://mrrobot.wikia.com/wiki/Fun_Society
+
+```
+1218 Bowery St
+Brooklyn, NY 11224
+```
+
+
 ### Wardenclyffe - Nikola Tesla's Lab<br>
 
 http://teslasciencecenter.org<br>
