@@ -4,6 +4,8 @@ this is a work in-progress, a list of various places to travel to
 
 includes stuff like: computing facilities, research labs, old hangouts, cold war stuff, possibly barcades etc
 
+---
+
 ## California
 
 ### Computer History Museum
