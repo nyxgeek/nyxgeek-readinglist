@@ -91,7 +91,7 @@ http://teslasciencecenter.org<br>
 ### ENIAC Computer - 1946
 One of the first computers, built from 1943 - 1946, in secret at the University of Pennsylvania's Moore School of Electrical Engineering.<P>
 
-ENIAC is on display in Room 100 of the Moore building.<P>
+Parts of the ENIAC are on display in Room 100 of the Moore building.<P>
 
 https://en.wikipedia.org/wiki/ENIAC
 
