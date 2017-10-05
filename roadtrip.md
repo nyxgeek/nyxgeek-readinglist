@@ -80,6 +80,22 @@ https://www.roadsideamerica.com/tip/13927
 Albuquerque, NM
 ```
 
+
+
+### Very Large Array - 27 Huge Radio Telescopes
+
+Admission: $6<P>
+
+https://public.nrao.edu/visit/very-large-array/
+
+
+```
+The Plains of San Agustin
+Old Hwy 60
+Magdalena, NM 87825
+34 04'43.497N, 107 37'05.819W
+```
+
 ---
 
 ## New York
