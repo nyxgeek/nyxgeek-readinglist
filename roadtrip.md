@@ -70,6 +70,16 @@ Media: (505) 667-7000
 Email: visit-bsm@lanl.gov<br>
 
 
+### Original Microsoft Headquarters - Albuquerque, NM
+
+A plaque on a rock marks the building where Microsoft was started<P>
+
+https://www.roadsideamerica.com/tip/13927
+
+```
+115 California Street NE 
+Albuquerque, NM
+```
 
 ---
 
