@@ -176,6 +176,22 @@ McLean, VA 22101
 
 ---
 
+## Washington
+
+### The Museum of Communications
+
+Open SUNDAYS 10a-3p. Check site for details.
+
+http://museumofcommunications.org/contact-info-and-map/<BR>
+```
+7000 East Marginal Way
+South Seattle, Washington 98108
+Telephone (206) 767-3012
+
+Mailing address: P.O. Box 81103 Seattle, WA 98108
+```
+---
+
 ## Washington DC
 
 ### International Spy Museum
