@@ -63,6 +63,20 @@ Cambridge, MA 02139
 
 ## New Mexico
 
+
+### Atari video game burial - Alamogordo, NM
+
+THe famed burial ground: 32°53′11.87″N 105°57′38.69″W
+
+https://en.wikipedia.org/wiki/Atari_video_game_burial
+
+also
+
+https://en.wikipedia.org/wiki/Atari:_Game_Over
+
+
+
+
 ### Bradbury Science Museum - Los Alamos Labs
 
 http://www.lanl.gov/museum/visit/<br>
