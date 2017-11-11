@@ -64,6 +64,13 @@ Cambridge, MA 02139
 ## New Mexico
 
 
+### Atari Headquarters
+
+- google this -
+
+
+
+
 ### Atari video game burial - Alamogordo, NM
 
 THe famed burial ground: 32°53′11.87″N 105°57′38.69″W
@@ -99,6 +106,14 @@ https://www.roadsideamerica.com/tip/13927
 ```
 115 California Street NE 
 Albuquerque, NM
+```
+
+
+### Roswell, NM
+
+Just because.
+
+```
 ```
 
 
