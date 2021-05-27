@@ -8,6 +8,7 @@ hacker folklore, history, and culture
 | 24.stage.software.test  | 24 stages of software development  |
 | a-story-about-magic   | A story About Magic aka Magic & More Magic  |
 | c-bible  | The C Programming Lanugage AKA "The C Bible" as revealed to the prophets Ian Chai and Glenn Chappell |
+| diary_of_hacker | Diary of a Hacker - Parts I and II - circa 1988 |
 | hacker-purity-test  | The Hacker Purity Test |
 | hacker-running-a-mud-so-i-can-learn-c | hacker.txt aka I'm running a Mud so I can learn C programming! |
 | hackers-manifesto | Hacker's Manifesto aka The Hacker Manifesto aka The Conscience of a Hacker |
