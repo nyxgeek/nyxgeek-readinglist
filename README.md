@@ -2,6 +2,8 @@
 hacker folklore, history, and culture
 
 
+*Note: None of this is my original work. All pages have a source attribution and retrieval date.*
+
 
 | Filename | Description |
 | ------------- | ------------- |
